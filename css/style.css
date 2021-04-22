@@ -30,6 +30,10 @@ body {
     margin-bottom: 50px;
 }
 
+#about h3{
+    font-size: 30px;
+}
+
 hr {
     width: 60%;
     margin-top: 40px;
