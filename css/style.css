@@ -1,0 +1,92 @@
+/* Tambahkan kode CSS kalian di file ini */
+
+h1 {
+    color: #fff;
+    background-color: #252525;
+    margin: 0px;
+    padding: 10px;
+}
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0px;
+}
+
+#profile img {
+    height: 250px;
+    border-radius: 50%;
+}
+
+#profile {
+    
+    padding: 30px;
+}
+
+#about, #contact {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+hr {
+    width: 60%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#skill {
+    display: flex;
+    margin: 50px;
+    /*untuk memberi jarak antar card*/
+    justify-content: space-between;
+}
+
+.card {
+    width: 30%;
+    border-radius: 15px;
+    background-color: #252525;
+    color: #fff;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.card p {
+    margin: 20px;
+}
+
+#contact a{
+    text-decoration: none;
+}
+
+#contact{
+    background-color: #252525;
+    color: aliceblue;
+    margin: 0px;
+    padding: 5px;
+}
+
+#logo {
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0px;
+}
+
+#logo a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+
+#logo img {
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 20px;
+    height: 20px;
+}
